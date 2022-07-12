@@ -44,7 +44,6 @@ body {
 
 .image img {
     mix-blend-mode: multiply;
-    opacity: 0.8;
     max-width: 490px;
     max-height: 400px;
 }
